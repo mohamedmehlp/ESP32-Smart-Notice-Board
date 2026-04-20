@@ -5,8 +5,8 @@
 ---
 
 ## 📺 استعراض المشروع (Demo)
-[![Watch the video](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)](رابط_فيديو_اليوتيوب_هنا)
-*استبدل "رابط_فيديو_اليوتيوب_هنا" بلينك الفيديو بعد الرفع.*
+[![Watch the video](https://www.youtube.com/watch?v=kqkNjLKtdpE))](رابط_فيديو_اليوتيوب_هنا)
+
 
 ---
 
