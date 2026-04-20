@@ -2,11 +2,9 @@
 
 نظام لوحة إعلانات رقمية ذكية تفاعلية لعرض جداول المحاضرات والتنبيهات، يعتمد على متحكم **ESP32** وشاشة **TFT 3.5"**، مع واجهة تحكم كاملة عبر الويب (Dashboard).
 
----
-
-## 📺 استعراض المشروع (Demo)
-[![Watch the video](https://www.youtube.com/watch?v=kqkNjLKtdpE))](رابط_فيديو_اليوتيوب_هنا)
-
+---## 📺 Project Showcase
+[![Smart Notice Board Demo](https://img.youtube.com/vi/kqkNjLKtdpE/0.jpg)](https://www.youtube.com/watch?v=kqkNjLKtdpE)
+*اضغط على الصورة أعلاه لمشاهدة شرح المشروع كاملاً على يوتيوب*
 
 ---
 
